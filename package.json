@@ -1,5 +1,5 @@
 {
-  name: "eslint_sample",
+  "name": "eslint_sample",
   "version": "1.0.0",
   "description": "Sample package.json for eslint",
   "devDependencies": {
