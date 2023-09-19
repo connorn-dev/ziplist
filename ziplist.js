@@ -24,3 +24,5 @@ const arr = [1, 2, 3];
 const arr2 = ['a', 'b'];
 console.log(ziplistTheSimpleWay(arr, arr2));
 console.log(ziplist(arr, arr2));
+console.log("test");
+
